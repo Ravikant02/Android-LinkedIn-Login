@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LinkdInLogin.iml" filepath="$PROJECT_DIR$/LinkdInLogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedInLogin.iml" filepath="$PROJECT_DIR$/LinkedInLogin.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
