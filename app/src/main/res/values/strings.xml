@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">LinkdInLogin</string>
+    <string name="client_id">81yhm0fqhaogov</string>
+    <string name="client_secret">YhLeJFOafVSKjpWg</string>
 </resources>

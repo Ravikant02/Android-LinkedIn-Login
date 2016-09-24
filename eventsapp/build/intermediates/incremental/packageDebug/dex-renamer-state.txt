@@ -1,0 +1,7 @@
+#Sat Sep 24 13:25:46 IST 2016
+base.0=/home/ravikant/Desktop/LinkedInLogin/eventsapp/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cc3c1dcbd8dd552da298b840784ee3acb134fca7
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/ravikant/Desktop/LinkedInLogin/eventsapp/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_48ae775bcf19144ec2a7a0a5351b1ac40da34f38/classes.dex
+base.1=/home/ravikant/Desktop/LinkedInLogin/eventsapp/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_48ae775bcf19144ec2a7a0a5351b1ac40da34f38
+file.0=/home/ravikant/Desktop/LinkedInLogin/eventsapp/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cc3c1dcbd8dd552da298b840784ee3acb134fca7/classes.dex

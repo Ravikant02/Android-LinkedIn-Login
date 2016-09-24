@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="22"
+    density="hdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="13170710060592"
+    token="3159350939445795173"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="13036113290871"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/ravikant/Desktop/LinkedInLogin/eventsapp/build/outputs/apk/eventsapp-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="13170710060592"
+        verifier="COLD_SWAP_REQUESTED" />
+
+</instant-run>

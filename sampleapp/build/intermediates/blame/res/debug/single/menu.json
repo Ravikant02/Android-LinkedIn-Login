@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/ravikant/Desktop/LinkedInLogin/sampleapp/build/intermediates/res/merged/debug/menu/deeplink.xml",
+        "source": "/home/ravikant/Desktop/LinkedInLogin/sampleapp/src/main/res/menu/deeplink.xml"
+    },
+    {
+        "merged": "/home/ravikant/Desktop/LinkedInLogin/sampleapp/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/ravikant/Desktop/LinkedInLogin/sampleapp/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/ravikant/Desktop/LinkedInLogin/sampleapp/build/intermediates/res/merged/debug/menu/api.xml",
+        "source": "/home/ravikant/Desktop/LinkedInLogin/sampleapp/src/main/res/menu/api.xml"
+    }
+]
